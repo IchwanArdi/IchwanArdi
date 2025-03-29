@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ichwanardi" alt="ichwanardi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [ichwanardi.vercel.app/](ichwanardi.vercel.app/)
+- 👨‍💻 All of my projects are available at [ichwanardi.vercel.app/](ichwanardi.vercel.app/home)
 
 - 📫 How to reach me **ichwanpwt22@gmail.com**
 
