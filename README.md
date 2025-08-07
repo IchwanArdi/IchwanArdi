@@ -19,28 +19,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichwanardi&theme=onedark&no-bg=true&no-frame=true&margin-w=10" alt="github trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichwanardi&show_icons=true&theme=radical" alt="Ichwan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwanardi&theme=radical" alt="Ichwan's GitHub streak" />
-</p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwanardi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 - 💼 Portfolio: [https://ichwanardi.vercel.app](https://ichwanardi.vercel.app)
