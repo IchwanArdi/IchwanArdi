@@ -1,16 +1,51 @@
 <h1 align="center">Hi 👋, I'm Ichwan</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Developer from Indonesia 🇮🇩</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ichwanardi&label=Profile%20views&color=0e75b6&style=flat" alt="ichwanardi" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3E7FFF&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%2F+Backend;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ichwanardi" alt="ichwanardi" />
+<p align="center">
+  <a href="https://github.com/ichwanardi">
+    <img src="https://komarev.com/ghpvc/?username=ichwanardi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="mailto:ichwanpwt22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ichwanardi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ichwanardi.vercel.app-blue?style=flat" />
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [ichwanardi.vercel.app](https://ichwanardi.vercel.app/home)
+---
 
-- 📫 How to reach me: **ichwanpwt22@gmail.com**
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichwanardi&theme=onedark&no-bg=true&no-frame=true&margin-w=10" alt="github trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ichwanardi&show_icons=true&theme=radical" alt="Ichwan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichwanardi&theme=radical" alt="Ichwan's GitHub streak" />
+</p>
+
+---
+
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichwanardi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 Portfolio: [https://ichwanardi.vercel.app](https://ichwanardi.vercel.app)
+- 📫 Email: **ichwanpwt22@gmail.com**
+
+---
+
+<!-- Feel free to customize this as needed -->
