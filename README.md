@@ -19,11 +19,16 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichwanardi&theme=onedark&no-bg=true&no-frame=true&margin-w=10" alt="github trophies" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 - 💼 Portfolio: [https://ichwanardi.vercel.app](https://ichwanardi.vercel.app)
 - 📫 Email: **ichwanpwt22@gmail.com**
-
----
 
 <!-- Feel free to customize this as needed -->
